@@ -40,10 +40,16 @@ Dalam kasus ini, metrik evaluasi yang digunakan adalah F1 Score. Semakin besar F
 ## Hasil Evaluasi
 Berikut ini adalah hasil evaluasi yang dihasilkan oleh tiga model berikut
 1. Decision Tree
+
 ![image](assets/dt.PNG)
+
 2. Random Forest
+
 ![image](assets/rf.PNG)
+
 3. Gradient Boosting
+
 ![image](assets/gb.PNG)
+
 
 Berdasarkan hasil evaluasi tersebut, Gradient Boosting menghasilkan hasil yang terbaik dengan F1 Score 96%. Oleh karena itu, kita akan memilih Gradient Boosting.
